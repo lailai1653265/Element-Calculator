@@ -1,0 +1,6 @@
+{
+    "symbol": "H",
+    "name": "Hydrogen", 
+    "number": 1,
+    "common_charges": [1, -1]
+  }
