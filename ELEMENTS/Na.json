@@ -1,6 +1,7 @@
 {
-    "symbol": "Na",
-    "name": "Sodium", 
-    "number": 11,
-    "common_charges": [1]
-  }
+  "symbol": "Na",
+  "name": "Sodium", 
+  "number": 11,
+  "valence": [1],
+  "ionic_count": 1
+}
