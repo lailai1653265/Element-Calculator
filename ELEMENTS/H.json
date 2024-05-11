@@ -1,6 +1,7 @@
 {
-    "symbol": "H",
-    "name": "Hydrogen", 
-    "number": 1,
-    "common_charges": [1, -1]
-  }
+  "symbol": "H",
+  "name": "Hydrogen",
+  "number": 1,
+  "valence": [1, -1], 
+  "ionic_count": 2
+}
