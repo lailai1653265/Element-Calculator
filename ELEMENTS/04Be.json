@@ -1,0 +1,8 @@
+{
+    "symbol": "Be",
+    "name": "Beryllium",
+    "number": 4,
+    "valence": [2],
+    "ionic_forms": ["Be^2+"],
+    "ionic_count": 1
+  }
