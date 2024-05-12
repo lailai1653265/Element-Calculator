@@ -1,0 +1,8 @@
+{
+    "symbol": "C",
+    "name": "Carbon", 
+    "number": 6,
+    "valence": [-4, 4],
+    "ionic_forms": ["C^4-", "C^4+"],
+    "ionic_count": 2
+  }

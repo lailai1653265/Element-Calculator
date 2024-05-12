@@ -1,0 +1,8 @@
+{
+    "symbol": "B",
+    "name": "Boron",
+    "number": 5,
+    "valence": [3],
+    "ionic_forms": ["B^3+"],
+    "ionic_count": 1
+  }
