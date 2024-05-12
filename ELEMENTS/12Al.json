@@ -1,0 +1,8 @@
+{
+    "symbol": "Al",
+    "name": "Aluminum",
+    "number": 13,
+    "valence": [3],
+    "ionic_forms": ["Al^3+"],
+    "ionic_count": 1
+  }
