@@ -1,0 +1,8 @@
+{
+    "symbol": "Li",
+    "name": "Lithium",
+    "number": 3,
+    "valence": [1],
+    "ionic_forms": ["Li+"],
+    "ionic_count": 1
+  }
