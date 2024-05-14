@@ -4,5 +4,6 @@
     "number": 9,
     "valence": [-1],
     "ionic_forms": ["F^-"],
-    "ionic_count": 1
+    "ionic_count": 1,
+    "is_metal": 2
   }

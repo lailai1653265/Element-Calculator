@@ -3,5 +3,7 @@
   "name": "Hydrogen",
   "number": 1,
   "valence": [1, -1], 
-  "ionic_count": 2
+  "ionic_forms": ["H^+", "H^-"],
+  "ionic_count": 2,
+  "is_metal": 2
 }

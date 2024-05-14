@@ -3,5 +3,7 @@
   "name": "Chlorine",
   "number": 17, 
   "valence": [-1],
-  "ionic_count": 1
+  "ionic_forms": ["Cl^-"],
+  "ionic_count": 1,
+  "is_metal": 2
 }

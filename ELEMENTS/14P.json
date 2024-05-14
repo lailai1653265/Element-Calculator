@@ -4,5 +4,6 @@
     "number": 15,
     "valence": [-3, 3, 5],
     "ionic_forms": ["P^3-", "P^3+", "P^5+"],
-    "ionic_count": 3
+    "ionic_count": 3,
+    "is_metal": 2
   }

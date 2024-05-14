@@ -4,5 +4,6 @@
     "number": 10,
     "valence": [0],
     "ionic_forms": [],
-    "ionic_count": 0
+    "ionic_count": 0,
+    "is_metal": 2
   }

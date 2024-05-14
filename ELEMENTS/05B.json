@@ -4,5 +4,6 @@
     "number": 5,
     "valence": [3],
     "ionic_forms": ["B^3+"],
-    "ionic_count": 1
+    "ionic_count": 1,
+    "is_metal": 2
   }

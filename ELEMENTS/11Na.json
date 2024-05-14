@@ -3,5 +3,7 @@
   "name": "Sodium", 
   "number": 11,
   "valence": [1],
-  "ionic_count": 1
+  "ionic_forms": ["Na^+"],
+  "ionic_count": 1,
+  "is_metal": 1
 }
